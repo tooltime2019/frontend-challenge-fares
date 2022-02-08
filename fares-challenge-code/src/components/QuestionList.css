@@ -1,0 +1,13 @@
+.question-list-header {
+    font-size: 60px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    color: lightgray;
+}
+
+.question-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
